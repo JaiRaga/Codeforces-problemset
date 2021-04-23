@@ -1,2 +1,2 @@
 # Codeforces-problemset
-## Solution for problem sets from codeforces website in Python.
+### Solution to problems from the codeforces website using python.
